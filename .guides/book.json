@@ -1,0 +1,17 @@
+{
+ "name": "Web Dev",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "2c057961-afae-cb70-de2e-a3694d47ed39",
+   "pageId": "2c057961-afae-cb70-de2e-a3694d47ed39",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "bc83ff80-8f5f-cedc-d6b2-d3cc1a73e1fe",
+   "pageId": "bc83ff80-8f5f-cedc-d6b2-d3cc1a73e1fe",
+   "type": "page"
+  }
+ ]
+}
